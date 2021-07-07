@@ -60,4 +60,8 @@ Some AutoML tools that are being used in industries are H2O, TPOT, Google’s Au
 Source : https://searchenterpriseai.techtarget.com/definition/automated-machine-learning-AutoML
          https://www.innoarchitech.com/blog/automl-mlops-dean-wampler-interview-ai-with-alex
          https://pianalytix.com/why-do-we-have-automl-and-mlops/
+         
+         
+         
+![2021-07-07](https://user-images.githubusercontent.com/62051958/124745162-231c7a00-df3d-11eb-9774-3b9e6752629d.png)         
                   
