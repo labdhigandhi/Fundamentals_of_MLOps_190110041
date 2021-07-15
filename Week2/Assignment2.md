@@ -1,5 +1,4 @@
-![2021-07-15](https://user-images.githubusercontent.com/62051958/125825938-7dfd1025-4c5f-4994-a6bf-51adcf1e1036.png)
-![aws](https://user-images.githubusercontent.com/62051958/125825982-0d3b86ec-28ca-4918-87e6-be3eb8575a09.jpg)
+
 Link to MLOps Assignment
 https://github.com/labdhigandhi/MLOps_Assignment
 
@@ -129,3 +128,6 @@ $ git checkout -b expt2_rf
 RANDOM FOREST MODEL ON CREDITCARD.CSV
 
 {"F1_Score": 0.999496616792791, "Accuracy": 0.9995084442259752}
+
+![2021-07-15](https://user-images.githubusercontent.com/62051958/125825938-7dfd1025-4c5f-4994-a6bf-51adcf1e1036.png)
+![aws](https://user-images.githubusercontent.com/62051958/125825982-0d3b86ec-28ca-4918-87e6-be3eb8575a09.jpg)
